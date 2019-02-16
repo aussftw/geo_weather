@@ -1,3 +1,6 @@
+Simple react-app who can find your location and told you somethin about weather.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
